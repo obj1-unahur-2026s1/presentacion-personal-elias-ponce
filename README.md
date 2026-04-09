@@ -10,7 +10,7 @@
 
 ### Otra Información
 - Este no es mi primer contacto con github
-- Me gusta muchisimo la musica, pasar tiempo con mi familia, mis amistades y disfrutar de los videojuegos.
+- Me gusta muchísimo la música, pasar tiempo con mi familia, mis amistades y disfrutar de los videojuegos.
 
 <p align="center">
   <img src="./ImportantPhoto.jpeg" alt="Perrito" width="500"/>
